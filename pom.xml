@@ -18,8 +18,8 @@
 		<spring-boot.version>2.1.5.RELEASE</spring-boot.version>
 		<spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
 		<logstash-logback-encoder.version>6.1</logstash-logback-encoder.version>
-		<sonar.host.url>http://172.31.16.61:9000/</sonar.host.url>
-		<sonar.login> eb284dd7a8bcfe114298b4bf6ecc4ece6eb1396f</sonar.login>
+		<sonar.host.url>http://172.31.17.37:9000/</sonar.host.url>
+		<sonar.login>7cb79d69daf1121daf4c8853f644a5bc4914178e</sonar.login>
 	</properties>
 
 	<dependencyManagement>
